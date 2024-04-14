@@ -1,0 +1,16 @@
+{
+    "id": "archeryplugin",
+    "name": "Archery Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Provides a shortcut which will total the arrow scores contained within the current note",
+    "author": "Will",
+    "authorUrl": "",
+    "fundingUrl": "",
+    "isDesktopOnly": true,
+    "settings": {
+        "directoryPath": "/path/to/your/directory"
+    },
+    "entry": "main.ts"
+}
+
